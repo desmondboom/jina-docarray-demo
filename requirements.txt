@@ -1,0 +1,5 @@
+click
+transformers
+torch
+torchvision
+notebook
