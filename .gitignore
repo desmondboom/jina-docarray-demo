@@ -1,4 +1,4 @@
 venv
-src/data
-src/query.jpg
-src/.ipynb_checkpoints
+fashion-picture-search/data
+fashion-picture-search/query.jpg
+fashion-picture-search/.ipynb_checkpoints
